@@ -114,9 +114,15 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "e3f63f8301994f77e5bb7e03e61b2f28",
 ".git/objects/fe/3b987e61ed346808d9aa023ce3073530ad7426": "dc7db10bf25046b27091222383ede515",
 ".git/refs/heads/main": "5737b4ddbd789d5d7f1bfaa794f15f37",
 ".git/refs/remotes/origin/main": "5737b4ddbd789d5d7f1bfaa794f15f37",
+<<<<<<< HEAD
 "assets/AssetManifest.bin": "544a7260159592ea909b41340c32530d",
 "assets/AssetManifest.bin.json": "8ba0747fabda682b3889ea871f966c26",
 "assets/AssetManifest.json": "ea53e705488ef2de5b962f23f377f217",
+=======
+"assets/AssetManifest.bin": "1eb681836a8710ec22437086faa51920",
+"assets/AssetManifest.bin.json": "d7495995f2288cb5e73d3b8fb683ffe5",
+"assets/AssetManifest.json": "9ccbb5c4a79e715efa6f6e3be65d67cd",
+>>>>>>> 7fdf14b (deploy build)
 "assets/assets/android_icon.png": "32d216e6912e028ace380094df9d51ff",
 "assets/assets/android_iconn.png": "32d216e6912e028ace380094df9d51ff",
 "assets/assets/android_studio.png": "60cd295b1b8759a0558bd48c83d648af",
@@ -183,7 +189,11 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "e3f63f8301994f77e5bb7e03e61b2f28",
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
+<<<<<<< HEAD
 "flutter_bootstrap.js": "af3ba333a6862785239b0e10acfa06d1",
+=======
+"flutter_bootstrap.js": "0e9e23a8908141e4b3d9591549809fcd",
+>>>>>>> 7fdf14b (deploy build)
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
