@@ -153,7 +153,7 @@ class MainDesktop extends StatelessWidget {
           //  avaitor pic
           const CircleAvatar(
             radius: 140,
-            backgroundImage: AssetImage("assets/mypic.jpg"),
+            backgroundImage: AssetImage("assets/mypic2.jpg"),
           ),
         ],
       ),
